@@ -1,1 +1,1 @@
-# cathouse
+# cathouse is styled using CSS Grid
